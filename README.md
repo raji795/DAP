@@ -18,7 +18,8 @@ we aim to help streaming platforms improve user retention, enhance content recom
 ✅ Identify **popular content types** to improve recommendations.  
 ✅ Optimize **pricing plans** based on spending habits.   
 
-*Methodology*:
+***Methodology*:**
+
 Data Preprocessing: Cleaning data, handling missing values, and removing duplicates.
 Descriptive Analysis: Examining key statistics related to spending behavior.
 Visualization: Generating scatter plots, bar charts, and pie charts to illustrate trends.
@@ -37,3 +38,11 @@ Pivot Tables: Analyzing credit usage based on different factors such as income l
 Ensure you have Python and required libraries installed:  
 ```bash
 pip install pandas matplotlib seaborn numpy
+
+
+
+**##Future scope:**
+One major area is advanced data analysis and visualization, where interactive dashboards and geographic visualizations can provide deeper insights into user behavior and subscription trends.
+Another key aspect is expansion into new markets, where predictive analytics can identify potential regions for growth based on user demographics and content preferences.
+By adopting these technologies, Netflix can continue to grow, innovate, and maintain its position as a global leader in the streaming industry.
+
