@@ -39,3 +39,9 @@ Ensure you have Python and required libraries installed:
 ```bash
 pip install pandas matplotlib seaborn numpy
 
+**Future scope
+**One major area is advanced data analysis and visualization, where interactive dashboards and geographic visualizations can provide deeper insights into user behavior and subscription trends.
+Another key aspect is expansion into new markets, where predictive analytics can identify potential regions for growth based on user demographics and content preferences.
+By adopting these technologies, Netflix can continue to grow, innovate, and maintain its position as a global leader in the streaming industry.
+
+
