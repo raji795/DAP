@@ -9,7 +9,7 @@ we aim to help streaming platforms improve user retention, enhance content recom
 ## 📂 Dataset  
 - **Dataset Name:** Netflix User Dataset  
 - **Source:** Kaggle 
-- **Columns Included:** User ID, Subscription Type, Monthly Revenue, Age,COuntry,Device Plan. 
+- **Columns Included:** User ID, Subscription Type, Monthly Revenue, Age,Country,Device Plan. 
 
 
 ## 🎯 Key Objectives  
